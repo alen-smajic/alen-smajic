@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=alen-smajic&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alen-smajic&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/alen-smajic&theme=blue-green)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=alen-smajic)
+![Profile View Counter](https://komarev.com/ghpvc/?username=alen-smajic)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/alen-smajic)
 
 <!--
 **alen-smajic/alen-smajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
