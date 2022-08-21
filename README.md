@@ -1,10 +1,17 @@
 ### Hi there 👋
 
+## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=alen-smajic&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/alen-smajic&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=alen-smajic)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alen-smajic&theme=blue-green)
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=https://github.com/Psarpei/Multi-Type-TD-TSR)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=alen-smajic)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/alen-smajic)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Psarpei/Multi-Type-TD-TSR)
 
 <!--
 **alen-smajic/alen-smajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
